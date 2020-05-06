@@ -1,10 +1,10 @@
-# tongji-10021501-high-level-language-programming
+# 同济大学 10021501 高级程序设计语言
 
 ### 简介
 
-同济大学，高级程序设计语言，2013年秋季学期。
+高级程序设计语言，2013年春季学期，沈坚老师授课。
 
-该课程由沈坚老师授课，人物相关 https://www.zhihu.com/question/265704733 。
+相关评论 https://www.zhihu.com/question/265704733 。
 
 ### 说明
 
